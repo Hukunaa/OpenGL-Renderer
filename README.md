@@ -7,4 +7,6 @@ There is a lot of bugs and artefacts, but was a good learning course for me.
 
 Here are some funny screenshots:
 
-![GitHub Logo](renderer/screens/FInal.gif)
+![](Renderer/Renderer/screens/Game.gif)
+![](Renderer/Renderer/screens/FInal.gif)
+![](Renderer/Renderer/screens/Minion.gif)
