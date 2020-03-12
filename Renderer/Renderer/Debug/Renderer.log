@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\v.jore\source\repos\pgpm_jore_v\opengl_renderer\renderer\renderer\src\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\v.jore\source\repos\pgpm_jore_v\opengl_renderer\renderer\renderer\src\main.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Renderer.vcxproj -> C:\Users\v.jore\source\repos\PGPM_JORE_V\OpenGL_Renderer\Renderer\Debug\Renderer.exe
+          1 file(s) copied.
+          1 file(s) copied.

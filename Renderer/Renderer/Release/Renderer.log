@@ -1,0 +1,14 @@
+﻿  OBJLoader.cpp
+c:\users\v.jore\source\repos\pgpm_jore_v\opengl_renderer\renderer\renderer\src\objloader.cpp(39): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\v.jore\source\repos\pgpm_jore_v\opengl_renderer\renderer\renderer\src\objloader.cpp(39): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\v.jore\source\repos\pgpm_jore_v\opengl_renderer\renderer\renderer\src\objloader.cpp(39): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\v.jore\source\repos\pgpm_jore_v\opengl_renderer\renderer\renderer\src\objloader.cpp(39): note: this argument is used as a buffer size
+c:\users\v.jore\source\repos\pgpm_jore_v\opengl_renderer\renderer\renderer\src\objloader.cpp(50): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'int'
+  Generating code
+  2 of 354 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Renderer.vcxproj -> C:\Users\v.jore\source\repos\PGPM_JORE_V\OpenGL_Renderer\Renderer\Release\Renderer.exe
+          1 file(s) copied.
+          1 file(s) copied.

@@ -1,0 +1,73 @@
+﻿  Renderer.cpp
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\LowRenderer\Mesh.h(19,19): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  see declaration of 'std'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\LowRenderer\Mesh.h(19,59): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\LowRenderer\Mesh.h(19,25): error C2143:  syntax error: missing ',' before '&'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Renderer.cpp(29,97): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Camera.cpp
+  Mesh.cpp
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Renderer.cpp(31,93): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\LowRenderer\Mesh.h(19,19): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  see declaration of 'std'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\LowRenderer\Mesh.h(19,59): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\LowRenderer\Mesh.h(19,25): error C2143:  syntax error: missing ',' before '&'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\Core\OBJLoader.h(17,34): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  see declaration of 'std'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\Core\OBJLoader.h(17,40): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\Core\OBJLoader.h(17,40): error C2143:  syntax error: missing ',' before '&'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Mesh.cpp(9,23): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  see declaration of 'std'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Mesh.cpp(9,29): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Mesh.cpp(9,29): error C2143:  syntax error: missing ',' before '&'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Mesh.cpp(12,32): error C2065:  'p_source': undeclared identifier
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Mesh.cpp(12,107): error C2065:  'slash': undeclared identifier
+  Model.cpp
+  OBJLoader.cpp
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\LowRenderer\Mesh.cpp(12,114): error C2065:  'polyNb': undeclared identifier
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\Core\OBJLoader.h(17,34): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  see declaration of 'std'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\Core\OBJLoader.h(17,40): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\Core\OBJLoader.h(17,40): error C2143:  syntax error: missing ',' before '&'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\OBJLoader.cpp(27,1): error C2511:  'void Resources::Model::OBJParser::OBJLoader::LoadObj(const std::string &,std::vector<Math::Vector::Vec3,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,std::vector<unsigned int,std::allocator<unsigned int>> &,int,const int)': overloaded member function not found in 'Resources::Model::OBJParser::OBJLoader'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\OBJLoader.cpp(27,1): error C2511:         with
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\OBJLoader.cpp(27,1): error C2511:         [
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\OBJLoader.cpp(27,1): error C2511:             _Ty=Math::Vector::Vec3
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\OBJLoader.cpp(27,1): error C2511:         ]
+  Shader.cpp
+  Mat4.cpp
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\include\Core\OBJLoader.h(11): message :  see declaration of 'Resources::Model::OBJParser::OBJLoader'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(132,14): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(132,14): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(132,43): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(132,43): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(133,11): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(133,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(133,44): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(133,44): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(142,8): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(142,8): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(142,40): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(142,40): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(144,8): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(144,8): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(144,43): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(144,43): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(153,8): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(153,8): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(153,37): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(153,37): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(154,5): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(154,5): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(154,38): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(154,38): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(182,36): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(182,36): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(183,28): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+  Vec3.cpp
+  Vec4.cpp
+  Main.cpp
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(183,28): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Texture.cpp
+  Generating Code...
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Main.cpp(107,32): warning C4305:  'argument': truncation from 'double' to 'GLclampf'
+D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Main.cpp(107,32): warning C4305: D:\PROG\BACKUP_ISART\OPENGL_MODERN (RENDERER)\OpenGL_Renderer\Renderer\Renderer\src\Core\Math\Matrix\Mat4.cpp(87) : warning C4172: returning address of local variable or temporary: TmpVec
