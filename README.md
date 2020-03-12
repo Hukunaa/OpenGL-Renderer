@@ -7,4 +7,4 @@ There is a lot of bugs and artefacts, but was a good learning course for me.
 
 Here are some funny screenshots:
 
-![](https://gfycat.com/helpfulwarmheartedcivet)
+![GitHub Logo](renderer/screens/FInal.gif)
